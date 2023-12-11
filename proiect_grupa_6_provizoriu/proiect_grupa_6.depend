@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1702334233 source:e:\info\proiect grupa 6\proiect_grupa_6\main.cpp
+	<iostream>
+	<cmath>
+	<cstring>
+	<algorithm>
+	<iomanip>
+	<queue>
+	<utility>
+	<fstream>
+
